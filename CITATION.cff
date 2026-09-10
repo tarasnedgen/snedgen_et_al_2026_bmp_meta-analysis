@@ -1,0 +1,19 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Snedgen
+  given-names: Tara N.
+- family-names: Evans
+  given-names: Brian S.
+- family-names: Connette
+  given-names: Grant M.
+- family-names: Proctor
+  given-names: C. Justin
+- family-names: Johnson
+  given-names: Amy E. M.
+orcid: https://orcid.org/0009-0005-1642-200X
+title: "Grassland bird BMP meta-analysis"
+version: v1.0
+  - type: doi
+    value: 10.5281/zenodo.22696760
+date-released: 2026-09-10
